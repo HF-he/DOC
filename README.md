@@ -1,3 +1,2 @@
-# Headline
+# Hello World!
 
-> An awesome project.
